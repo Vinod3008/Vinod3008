@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinod3008
+- 👋 Hi, I’m @Vinodh_Kumar_Peddinti
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Science
